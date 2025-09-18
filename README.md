@@ -1,2 +1,2 @@
-# charlotte-em-smith.github.io
+# Thunderbolts - Void
 322 Group Project
