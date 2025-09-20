@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: Thunderbolts* - Void
 description: Group 8
+logo: /assets/thunderbolts_poster (1).png
 
 include:
   - assets/style.css
