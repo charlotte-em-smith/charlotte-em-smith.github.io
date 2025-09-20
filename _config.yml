@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Thunderbolts* - Void
 description: Group 8
-logo: https://github.com/charlotte-em-smith/charlotte-em-smith.github.io/blob/main/assets/thunderbolts_poster%20(1).jpg
+logo: /assets/thunderbolts_poster%20(1).jpg
 
 include:
   - assets/style.css
