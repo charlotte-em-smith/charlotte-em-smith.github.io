@@ -14,7 +14,8 @@ Void Editor is AI integrated and powered with VSCode, which can use many existin
 **Documents**
 - [Github VOID_CODEBASE_GUIDE](https://github.com/voideditor/void/blob/main/VOID_CODEBASE_GUIDE.md)  
 - [Github VSCode Source-Code-Organization](https://github.com/microsoft/vscode/wiki/Source-Code-Organization)  
-- [Foss Void Overview](https://news.itsfoss.com/void-editor/#google_vignette)  
+- [Foss Void Overview](https://news.itsfoss.com/void-editor/#google_vignette)
+- [Github Electron Framework](https://github.com/electron/electron)
   
 **Additional Resources**   
 For the AI companion portion of our project, we have chosen to use Anthropic’s Claude Sonnet 4 model. This is due to Claude having stronger logic, reasoning and agentic coding features, which makes it the most popular model for developers in the tech industry. We will be logging our interactions with Claude as per the project requirements to ensure that we are using the AI companion within the guidelines provided to us.  
