@@ -38,8 +38,8 @@ Unless otherwise specified, all members shall go to the morning tutorial, and ar
 **General Website**  
 [https://voideditor.com/](https://voideditor.com/)  
 
-**A1 Document & Presentation**
-Document: [A1_Document](https://docs.google.com/document/d/10uzKY0Jh4idUWd8mXfb_H_ZQyJYjfft8afyVNo5bxVo/edit?usp=sharing)
+**A1 Document & Presentation**  
+Document: [A1_Document](https://docs.google.com/document/d/10uzKY0Jh4idUWd8mXfb_H_ZQyJYjfft8afyVNo5bxVo/edit?usp=sharing)  
 Presentation: [A1_Presentation](https://docs.google.com/presentation/d/1ON3kEXwvCCdSndn44ktwHvbDuKvMetaHxuk9jxnkAzw/edit?usp=sharing)
 
 
