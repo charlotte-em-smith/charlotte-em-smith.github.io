@@ -42,4 +42,8 @@ Unless otherwise specified, all members shall go to the morning tutorial, and ar
 Document: [A1_Document](https://docs.google.com/document/d/10uzKY0Jh4idUWd8mXfb_H_ZQyJYjfft8afyVNo5bxVo/edit?usp=sharing)  
 Presentation: [A1_Presentation](https://docs.google.com/presentation/d/1ON3kEXwvCCdSndn44ktwHvbDuKvMetaHxuk9jxnkAzw/edit?usp=sharing)
 
+**A2 Document & Presentation**  
+Document: [A2_Document](https://docs.google.com/document/d/1UsG2oJc29jDWBFcHdt8fXRccFH6Dvxl-iAG3iswcC5A/edit?usp=sharing)
+Presntation: [A2_Presentation](https://docs.google.com/presentation/d/1yvadLccFcD_lyvaLQbnWtAN_0lKfFfcZw1GgmvbYRto/edit?usp=sharing)
+
 
