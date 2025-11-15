@@ -44,6 +44,6 @@ Presentation: [A1_Presentation](https://docs.google.com/presentation/d/1ON3kEXwv
 
 **A2 Document & Presentation**  
 Document: [A2_Document](https://docs.google.com/document/d/1UsG2oJc29jDWBFcHdt8fXRccFH6Dvxl-iAG3iswcC5A/edit?usp=sharing)
-Presntation: [A2_Presentation](https://docs.google.com/presentation/d/1yvadLccFcD_lyvaLQbnWtAN_0lKfFfcZw1GgmvbYRto/edit?usp=sharing)
+Presentation: [A2_Presentation](https://docs.google.com/presentation/d/1yvadLccFcD_lyvaLQbnWtAN_0lKfFfcZw1GgmvbYRto/edit?usp=sharing)
 
 
